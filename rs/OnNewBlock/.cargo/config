@@ -1,0 +1,5 @@
+[target.wasm32-unknown-unknown]
+rustflags = [
+    "-Clink-args=-s EXPORTED_FUNCTIONS=['_execute'] -s ASSERTIONS=1",
+    "-C", "link-args=--import-memory",
+]

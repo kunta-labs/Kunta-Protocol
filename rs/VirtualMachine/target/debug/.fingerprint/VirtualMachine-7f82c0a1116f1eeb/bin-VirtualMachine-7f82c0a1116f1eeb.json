@@ -1,0 +1,1 @@
+{"rustc":18171040772492703089,"features":"[]","target":8654806142790898466,"profile":4126432560951426719,"path":1036222786711178230,"deps":[["wasm-bindgen v0.2.33","wasm_bindgen",9862381259254866765]],"local":[{"MtimeBased":[[1558389034,0],".fingerprint/VirtualMachine-7f82c0a1116f1eeb/dep-bin-VirtualMachine-7f82c0a1116f1eeb"]}],"rustflags":[],"edition":"Edition2018"}

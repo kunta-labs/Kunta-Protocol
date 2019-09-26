@@ -1,0 +1,1 @@
+{"rustc":18171040772492703089,"features":"[]","target":9653889267900044988,"profile":14920305482176663840,"path":10872709659218687626,"deps":[["wasm-bindgen v0.2.33","wasm_bindgen",9862381259254866765]],"local":[{"MtimeBased":[[1557441666,0],".fingerprint/OnNewBlock-1734165a9c9a2ca0/dep-lib-OnNewBlock"]}],"rustflags":[],"edition":"Edition2018"}

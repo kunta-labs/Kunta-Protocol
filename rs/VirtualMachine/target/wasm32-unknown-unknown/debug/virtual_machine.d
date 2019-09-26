@@ -1,0 +1,1 @@
+/Users/jovonnipharr/Documents/projects/kunta_wasm/rs/VirtualMachine/target/wasm32-unknown-unknown/debug/virtual_machine.wasm: /Users/jovonnipharr/Documents/projects/kunta_wasm/rs/VirtualMachine/src/lib.rs

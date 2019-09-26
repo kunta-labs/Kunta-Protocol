@@ -1,0 +1,15 @@
+{
+  "name": "virtual_machine",
+  "collaborators": [
+    "jovonnipharr"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "virtual_machine_bg.wasm",
+    "virtual_machine.js",
+    "virtual_machine.d.ts"
+  ],
+  "module": "virtual_machine.js",
+  "types": "virtual_machine.d.ts",
+  "sideEffects": "false"
+}

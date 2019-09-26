@@ -1,0 +1,15 @@
+{
+  "name": "on_new_block",
+  "collaborators": [
+    "jovonnipharr"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "on_new_block_bg.wasm",
+    "on_new_block.js",
+    "on_new_block.d.ts"
+  ],
+  "module": "on_new_block.js",
+  "types": "on_new_block.d.ts",
+  "sideEffects": "false"
+}

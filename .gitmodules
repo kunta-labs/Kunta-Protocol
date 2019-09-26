@@ -1,0 +1,3 @@
+[submodule "Lang"]
+	path = Lang
+	url = https://github.com/Project-Kunta/Language.git

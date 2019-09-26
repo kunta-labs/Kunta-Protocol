@@ -1,0 +1,20 @@
+{
+  "_bid": 2,
+  "header": {
+    "blockIndex": 2,
+    "hash": "000664a33a8bb9c439e5988dd8c985b52f1de7b57ac2ab6ff740b311f6667a24",
+    "version": 0,
+    "previousHash": "000c626506e9d6115947a2a592328adeedcb690a87f336ce78eff992a2a63965",
+    "rootSet": [],
+    "timestamp": 1569481727860,
+    "difficulty": 3,
+    "nonce": 907
+  },
+  "body": {
+    "data": {
+      "owner": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "STATE_HASH": "7d66381fce9243701cb0ef233946973aa92197c092f0fec9e1858c82b97445c1"
+    },
+    "rootInstances": []
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "OnCreate",
+  "collaborators": [
+    "jovonnipharr"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "OnCreate_bg.wasm",
+    "OnCreate.js",
+    "OnCreate.d.ts"
+  ],
+  "module": "OnCreate.js",
+  "types": "OnCreate.d.ts",
+  "sideEffects": "false"
+}
