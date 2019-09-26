@@ -11,5 +11,5 @@ clean_storage:
 	rm -f storage/BC/*.kb
 save:
 	git add * -v;
-	git commit -am "default save core" -v;
+	git commit -am "$(SM)" -v;
 	git push origin master -v ;
