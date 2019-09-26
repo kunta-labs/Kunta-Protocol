@@ -32,7 +32,7 @@ fn main() {
     // 	data: n, len: s 
     // };
 
-    //unsafe{ lib::write("jovi");}
+    //unsafe{ lib::write("test string");}
     //may not be able to pass cont to function
     //lib::virtual_machine( parameter );
 
